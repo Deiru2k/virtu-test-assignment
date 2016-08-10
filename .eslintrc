@@ -1,0 +1,11 @@
+{
+  "extends": "@dtrussia/eslint-config-dtrussia/react",
+  "globals": {
+    "google": true,
+    "NODE_ENV": true,
+  },
+  "rules": {
+    "react/no-multi-comp": 0,
+    "camelcase": 0,
+  }
+}
